@@ -8,6 +8,7 @@
 - Docker-compose
 - NGINX
 - React
+- Zorin OS - Distro baseada no UBUNTO
 
 
 ## 🤔 Qual era o desafio?
