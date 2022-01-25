@@ -8,7 +8,7 @@
 - Docker-compose
 - NGINX
 - React
-- Zorin OS - Distro baseada no UBUNTO
+- Linux: Zorin OS - Distro baseada no UBUNTU
 
 
 ## 🤔 Qual era o desafio?
